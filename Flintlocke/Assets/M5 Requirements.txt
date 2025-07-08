@@ -1,0 +1,47 @@
+> (1) Playable Character	DONE
+	Animations:		DONE
+		- Idling	DONE
+		- Running	DONE
+		- Jumping	DONE
+		- Attacking	DONE
+		- Hurt
+		- Dying
+> (3) Enemies
+	- Pirate Thug
+	- Gun Pirate
+	- Evil Parrot
+	- Pirate Ghosts
+	- Seaweed monster
+	- Piranha
+	- Crab with Knife
+	- Pirate King
+> Tile sets
+	Playable Ground:
+		- Sand
+		- Grass
+		- Cave
+		- Wood / Ship
+		- Underwater
+		- Gold
+	Background: 
+		- Island Jungle
+		- Cave
+		- Open seas
+		- Underwater
+		- Treasure room
+> Objects
+	Med kit		(Collectable)
+	Coconuts	(Collectable)
+	Banana  	(Collectable)
+	Barrel				DONE
+	Crate
+	Torch
+	Skull and Bones
+	Gold Coin	(Collectable)
+	Cannon & Cannonballs
+	Falling Spikes
+	Rotting Planks
+	Starfish	(Collectable)
+	Treasure Chest
+	Levers
+	Rotating Rat	(Collectable)
